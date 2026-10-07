@@ -13,7 +13,7 @@ Technologies Used
 * Python
 * Random module
 
-💻 What I Learned
+What I Learned
 
 This project helped me practise:
 
